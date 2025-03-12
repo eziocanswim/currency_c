@@ -2,4 +2,8 @@
 // import 'package:currency_c/utils.dart';
 // import 'package:http/http.dart' as http;
 
-// Future<void> fetchList
+// The fetch_currency_list function
+
+// The fetch_currency_rate function
+
+// Models
